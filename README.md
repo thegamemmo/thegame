@@ -1,4 +1,5 @@
-# The Game
+![hiring](https://github.com/thegamemmo/thegame/assets/120608683/bc8e9090-f85d-46bc-9bed-31fdcc1b4236)
+
 ## Background and Introduction
 
 In today's digital age, where the lines between reality and virtual spaces blur, The Game introduces a revolutionary concept – a blend of Massively Multiplayer Online Games (MMOG), tangible financial incentives through cryptocurrencies, and immersive experiences offered by Virtual Reality (VR) and Augmented Reality (AR), all enhanced by the dynamism of Artificial Intelligence (AI).
